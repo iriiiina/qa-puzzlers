@@ -8,4 +8,4 @@ A puzzler is some code that doesn't work the way it seems it should work (I have
 
 Here are collected puzzlers about different frameworks, that are often used in automation tests.
 
-* [https://hamcrest.org/](Hamcrest)
+* [Hamcrest](https://hamcrest.org/)
