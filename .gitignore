@@ -11,5 +11,5 @@
 *.ipr
 
 ### Maven ###
-.mvn/repository/**
 target/
+.mvn/repository/
